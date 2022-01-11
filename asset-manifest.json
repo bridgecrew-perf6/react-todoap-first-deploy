@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/conh-2027/react-todoap-first-deploy/static/css/main.2bc23448.css",
+    "main.js": "/conh-2027/react-todoap-first-deploy/static/js/main.2be27e6f.js",
+    "static/js/787.e9335536.chunk.js": "/conh-2027/react-todoap-first-deploy/static/js/787.e9335536.chunk.js",
+    "index.html": "/conh-2027/react-todoap-first-deploy/index.html",
+    "main.2bc23448.css.map": "/conh-2027/react-todoap-first-deploy/static/css/main.2bc23448.css.map",
+    "main.2be27e6f.js.map": "/conh-2027/react-todoap-first-deploy/static/js/main.2be27e6f.js.map",
+    "787.e9335536.chunk.js.map": "/conh-2027/react-todoap-first-deploy/static/js/787.e9335536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc23448.css",
+    "static/js/main.2be27e6f.js"
+  ]
+}
